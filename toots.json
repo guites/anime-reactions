@@ -1,0 +1,1974 @@
+[
+    {
+        "id": "111754973729567316",
+        "created_at": "2024-01-14T15:19:30.823Z",
+        "in_reply_to_id": "111754961236110212",
+        "in_reply_to_account_id": "110707206812594969",
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://bolha.us/users/guisso/statuses/111754973729567316",
+        "url": "https://bolha.us/@guisso/111754973729567316",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Fica a reflexão, pra quem acha que isso não é um problema e que quem tem q se vigiar ou usar direito o cartão é a pessoa. O pensamento é assim, não Temos educação auficiente pra lidar com isso, não é culpa só da pessoa, se ela receber incentivos pro mal caminho, &quot;descontos&quot;, brindes, produtos, td leva a pessoa ao erro e na hr de dar ruim, tome juros nas costas</p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Mastodon for Android",
+            "website": "https://app.joinmastodon.org/android"
+        },
+        "account": {
+            "id": "110707206812594969",
+            "username": "guisso",
+            "acct": "guisso",
+            "display_name": "guisso",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "group": false,
+            "created_at": "2023-07-13T00:00:00.000Z",
+            "note": "<p>DevSec | Blockchain</p>",
+            "url": "https://bolha.us/@guisso",
+            "uri": "https://bolha.us/users/guisso",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/110/707/206/812/594/969/original/cc95f12bfd3e1a36.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/110/707/206/812/594/969/original/cc95f12bfd3e1a36.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/110/707/206/812/594/969/original/0f79e65f828c9a2c.png",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/110/707/206/812/594/969/original/0f79e65f828c9a2c.png",
+            "followers_count": 34,
+            "following_count": 43,
+            "statuses_count": 118,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [],
+            "roles": [],
+            "fields": [
+                {
+                    "name": "Website",
+                    "value": "<a href=\"https://guisso.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">guisso.dev</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "Github",
+                    "value": "https://github/fguisso",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111754961236110212",
+        "created_at": "2024-01-14T15:16:20.190Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://bolha.us/users/guisso/statuses/111754961236110212",
+        "url": "https://bolha.us/@guisso/111754961236110212",
+        "replies_count": 1,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Queria saber quem foi o corno que inventou esses cartão de credito de loja, o Brasileiro é fudido com finanças, ficar enfiando cartão de credito na gente é quase que um jogo de azar, devia ser proibido. A pessoa faz achando que é super vantagem, quando ve, ta com dividas absurdas de juros pra vida toda e uns 10 cartão da mesma loja.</p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Mastodon for Android",
+            "website": "https://app.joinmastodon.org/android"
+        },
+        "account": {
+            "id": "110707206812594969",
+            "username": "guisso",
+            "acct": "guisso",
+            "display_name": "guisso",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "group": false,
+            "created_at": "2023-07-13T00:00:00.000Z",
+            "note": "<p>DevSec | Blockchain</p>",
+            "url": "https://bolha.us/@guisso",
+            "uri": "https://bolha.us/users/guisso",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/110/707/206/812/594/969/original/cc95f12bfd3e1a36.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/110/707/206/812/594/969/original/cc95f12bfd3e1a36.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/110/707/206/812/594/969/original/0f79e65f828c9a2c.png",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/110/707/206/812/594/969/original/0f79e65f828c9a2c.png",
+            "followers_count": 34,
+            "following_count": 43,
+            "statuses_count": 118,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [],
+            "roles": [],
+            "fields": [
+                {
+                    "name": "Website",
+                    "value": "<a href=\"https://guisso.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">guisso.dev</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "Github",
+                    "value": "https://github/fguisso",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111754402968130856",
+        "created_at": "2024-01-14T12:54:21.696Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/NaNanda/statuses/111754402968130856",
+        "url": "https://bolha.us/@NaNanda/111754402968130856",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Nascemos e nos criamos consumindo cultura norte-americana, mas agora precisamos perder a mania do viralatismo e lutar pela soberania do Brasil.</p><p>Dólar é uma moeda que não valerá nada é-nos EUA já são um país economicamente MORTO!</p><p>Tempos finais</p><p><a href=\"https://youtube.com/watch?v=uXxK6lGb_rQ&amp;si=p4K_0TyA54EDD3cC\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">youtube.com/watch?v=uXxK6lGb_r</span><span class=\"invisible\">Q&amp;si=p4K_0TyA54EDD3cC</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Moshidon",
+            "website": "https://github.com/LucasGGamerM/moshidon"
+        },
+        "account": {
+            "id": "109480958854123860",
+            "username": "NaNanda",
+            "acct": "NaNanda",
+            "display_name": "Not a Nanda  :bandeira_pb:",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "group": false,
+            "created_at": "2022-12-09T00:00:00.000Z",
+            "note": "<p>🌵 Paraíba - Brasil<br />Louca das Plantas<br />:windows: Fã do Windows 11<br />:uni: Analista de Suporte</p>",
+            "url": "https://bolha.us/@NaNanda",
+            "uri": "https://bolha.us/users/NaNanda",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/109/480/958/854/123/860/original/204c70bff6eb4100.jpeg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/109/480/958/854/123/860/original/204c70bff6eb4100.jpeg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/109/480/958/854/123/860/original/9a632133754b94be.jpeg",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/109/480/958/854/123/860/original/9a632133754b94be.jpeg",
+            "followers_count": 200,
+            "following_count": 160,
+            "statuses_count": 1595,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [
+                {
+                    "shortcode": "windows",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/041/347/original/dd23f32cb472bfe5.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/041/347/static/dd23f32cb472bfe5.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "uni",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/032/340/original/1970957df7e8d33a.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/032/340/static/1970957df7e8d33a.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "bandeira_pb",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/032/221/original/0a2fe8f9725073ec.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/032/221/static/0a2fe8f9725073ec.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "roles": [],
+            "fields": []
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": {
+            "url": "https://www.youtube.com/watch?v=uXxK6lGb_rQ&si=p4K_0TyA54EDD3cC",
+            "title": "Tempos finais",
+            "description": "",
+            "language": null,
+            "type": "video",
+            "author_name": "A Arte da Terra",
+            "author_url": "https://www.youtube.com/@estadoanarquista",
+            "provider_name": "YouTube",
+            "provider_url": "https://www.youtube.com/",
+            "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/uXxK6lGb_rQ?feature=oembed\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms\"></iframe>",
+            "width": 200,
+            "height": 150,
+            "image": "https://media.bolha.us/bolhaprod/cache/preview_cards/images/005/080/966/original/0f068a91cb7a5e6f.jpg",
+            "image_description": "",
+            "embed_url": "",
+            "blurhash": "UZG[vVxGyYJTXnW;bIn%0LR*R4xFwIsnoISg",
+            "published_at": null
+        },
+        "poll": null
+    },
+    {
+        "id": "111754308625733349",
+        "created_at": "2024-01-14T12:30:22.145Z",
+        "in_reply_to_id": "111754308611972083",
+        "in_reply_to_account_id": "109353186131654434",
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/programadorreal/statuses/111754308625733349",
+        "url": "https://bolha.us/@programadorreal/111754308625733349",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Acesse agora mesmo nossa loja virtual e aproveite as promoções especiais para os fãs do Developer&#39;s Life: <a href=\"https://store.developerslife.tech/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">store.developerslife.tech/</span><span class=\"invisible\"></span></a> <a href=\"https://bolha.us/tags/DevelopersLife\" class=\"mention hashtag\" rel=\"tag\">#<span>DevelopersLife</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "AlonsoBot",
+            "website": "https://developerslife.tech/"
+        },
+        "account": {
+            "id": "109353186131654434",
+            "username": "programadorreal",
+            "acct": "programadorreal",
+            "display_name": "Andre Noel :dev: :ploft:",
+            "locked": false,
+            "bot": false,
+            "discoverable": false,
+            "group": false,
+            "created_at": "2022-11-16T00:00:00.000Z",
+            "note": "<p>Programador / Professor / Palestrante / Consultor / Mentor / Autor / Webcartunista / Humorista / Coach de Gambiarras / Sex Symbol.</p>",
+            "url": "https://bolha.us/@programadorreal",
+            "uri": "https://bolha.us/users/programadorreal",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/109/353/186/131/654/434/original/8d3906e692231f5f.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/109/353/186/131/654/434/original/8d3906e692231f5f.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/109/353/186/131/654/434/original/acd6d659428571ce.jpeg",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/109/353/186/131/654/434/original/acd6d659428571ce.jpeg",
+            "followers_count": 1093,
+            "following_count": 78,
+            "statuses_count": 1649,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [
+                {
+                    "shortcode": "dev",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/041/146/original/51bd6f0d2aa4bbc9.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/041/146/static/51bd6f0d2aa4bbc9.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "ploft",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/041/149/original/b29792d372fe15fa.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/041/149/static/b29792d372fe15fa.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "roles": [],
+            "fields": [
+                {
+                    "name": "Site",
+                    "value": "<a href=\"https://developerslife.tech/pt/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">developerslife.tech/pt/</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-07-06T14:28:22.838+00:00"
+                },
+                {
+                    "name": "Instagram",
+                    "value": "<a href=\"https://www.instagram.com/programadorreal/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/programadorreal/</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "Youtube",
+                    "value": "<a href=\"https://youtube.com/programadorreal\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">youtube.com/programadorreal</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "Twitter",
+                    "value": "<a href=\"https://twitter.com/programadorreal\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/programadorreal</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "developerslife",
+                "url": "https://bolha.us/tags/developerslife"
+            }
+        ],
+        "emojis": [],
+        "card": {
+            "url": "https://store.developerslife.tech/",
+            "title": "Loja Vida de Programador",
+            "description": "Loja Oficial do Site Vida de Programador / The Developer's Life",
+            "language": "pt",
+            "type": "link",
+            "author_name": "",
+            "author_url": "",
+            "provider_name": "Loja Vida de Programador",
+            "provider_url": "",
+            "html": "",
+            "width": 600,
+            "height": 300,
+            "image": "https://media.bolha.us/bolhaprod/cache/preview_cards/images/002/626/885/original/4b228b7a8c149a1b.png",
+            "image_description": "",
+            "embed_url": "",
+            "blurhash": "U01fC^00j[_300_3ay9F~q4nj[?b00?bj[D%",
+            "published_at": null
+        },
+        "poll": null
+    },
+    {
+        "id": "111754308611972083",
+        "created_at": "2024-01-14T12:30:21.936Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/programadorreal/statuses/111754308611972083",
+        "url": "https://bolha.us/@programadorreal/111754308611972083",
+        "replies_count": 1,
+        "reblogs_count": 0,
+        "favourites_count": 2,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Tirinha #408 (09/01/2012): Espaço em branco <a href=\"https://bolha.us/tags/developerslife\" class=\"mention hashtag\" rel=\"tag\">#<span>developerslife</span></a> <a href=\"https://bolha.us/tags/webcomic\" class=\"mention hashtag\" rel=\"tag\">#<span>webcomic</span></a> <a href=\"https://bolha.us/tags/bolhadev\" class=\"mention hashtag\" rel=\"tag\">#<span>bolhadev</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "AlonsoBot",
+            "website": "https://developerslife.tech/"
+        },
+        "account": {
+            "id": "109353186131654434",
+            "username": "programadorreal",
+            "acct": "programadorreal",
+            "display_name": "Andre Noel :dev: :ploft:",
+            "locked": false,
+            "bot": false,
+            "discoverable": false,
+            "group": false,
+            "created_at": "2022-11-16T00:00:00.000Z",
+            "note": "<p>Programador / Professor / Palestrante / Consultor / Mentor / Autor / Webcartunista / Humorista / Coach de Gambiarras / Sex Symbol.</p>",
+            "url": "https://bolha.us/@programadorreal",
+            "uri": "https://bolha.us/users/programadorreal",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/109/353/186/131/654/434/original/8d3906e692231f5f.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/109/353/186/131/654/434/original/8d3906e692231f5f.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/109/353/186/131/654/434/original/acd6d659428571ce.jpeg",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/109/353/186/131/654/434/original/acd6d659428571ce.jpeg",
+            "followers_count": 1093,
+            "following_count": 78,
+            "statuses_count": 1649,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [
+                {
+                    "shortcode": "dev",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/041/146/original/51bd6f0d2aa4bbc9.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/041/146/static/51bd6f0d2aa4bbc9.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "ploft",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/041/149/original/b29792d372fe15fa.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/041/149/static/b29792d372fe15fa.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "roles": [],
+            "fields": [
+                {
+                    "name": "Site",
+                    "value": "<a href=\"https://developerslife.tech/pt/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">developerslife.tech/pt/</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-07-06T14:28:22.838+00:00"
+                },
+                {
+                    "name": "Instagram",
+                    "value": "<a href=\"https://www.instagram.com/programadorreal/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/programadorreal/</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "Youtube",
+                    "value": "<a href=\"https://youtube.com/programadorreal\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">youtube.com/programadorreal</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "Twitter",
+                    "value": "<a href=\"https://twitter.com/programadorreal\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/programadorreal</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [
+            {
+                "id": "111754308550382687",
+                "type": "image",
+                "url": "https://media.bolha.us/bolhaprod/media_attachments/files/111/754/308/550/382/687/original/e457b32d00c320ee.png",
+                "preview_url": "https://media.bolha.us/bolhaprod/media_attachments/files/111/754/308/550/382/687/small/e457b32d00c320ee.png",
+                "remote_url": null,
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 510,
+                        "height": 510,
+                        "size": "510x510",
+                        "aspect": 1.0
+                    },
+                    "small": {
+                        "width": 480,
+                        "height": 480,
+                        "size": "480x480",
+                        "aspect": 1.0
+                    }
+                },
+                "description": "/* História real enviada por rodrigos */ Cliente: O módulo de faturamento está com problemas. Programador: Mas qual é o problema? Cliente: Ele não está permitindo colocar espaço em branco na frente do número da nota fiscal. Programador: É que o número da nota é um campo inteiro gerado automaticamente pelo sistema, mas por que você precisa disso? Cliente: É que pelo conceito da nossa empresa, quando o número da nota começar com espaço em branco significa que é a nota foi faturada.",
+                "blurhash": "UaNAu900oy%M9FDjof%MRjRjRjj[?bxuWBWB"
+            }
+        ],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "developerslife",
+                "url": "https://bolha.us/tags/developerslife"
+            },
+            {
+                "name": "webcomic",
+                "url": "https://bolha.us/tags/webcomic"
+            },
+            {
+                "name": "bolhaDev",
+                "url": "https://bolha.us/tags/bolhaDev"
+            }
+        ],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111754078061023934",
+        "created_at": "2024-01-14T11:31:44.007Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/conradostochi/statuses/111754078061023934",
+        "url": "https://bolha.us/@conradostochi/111754078061023934",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 1,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Essa época do ano aqui nas terras tupiniquins é um porre.  Toda essa demonstração dos adoradores do BBB, é a coisa mais ridícula do meu ano.<br />Que Exú abra os caminhos daqueles que adoram um programa manipulado que me faz repensar trocentas vezes como o brasileiro é um povo que tem cabeça para ter cabelo, neurônios para serem queimados e massa cinzenta para fazer epóxi.</p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Moshidon",
+            "website": "https://github.com/LucasGGamerM/moshidon"
+        },
+        "account": {
+            "id": "110327635932747133",
+            "username": "conradostochi",
+            "acct": "conradostochi",
+            "display_name": "Conrado",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "group": false,
+            "created_at": "2023-05-07T00:00:00.000Z",
+            "note": "<p>Entusiasta de SI | Tecnólogo em Sistemas para Internet 💻 | Palmeirense 💚🐷 | Umbandista/Ogã 🏹🪘</p><p>Aqui eu falo de tudo um pouco, fatos ocorridos no meu dia-a-dia de um brasileiro 🇧🇷, paulista, que mora entre canaviais. <br />It&#39;s me Conrado, SimplexSic</p>",
+            "url": "https://bolha.us/@conradostochi",
+            "uri": "https://bolha.us/users/conradostochi",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/110/327/635/932/747/133/original/533ab02f6b126f0d.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/110/327/635/932/747/133/original/533ab02f6b126f0d.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/110/327/635/932/747/133/original/fd3cd3181cff004d.jpg",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/110/327/635/932/747/133/original/fd3cd3181cff004d.jpg",
+            "followers_count": 50,
+            "following_count": 261,
+            "statuses_count": 40,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [],
+            "roles": [],
+            "fields": []
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111754071121908462",
+        "created_at": "2024-01-14T11:29:58.124Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/hartungstenio/statuses/111754071121908462",
+        "url": "https://bolha.us/@hartungstenio/111754071121908462",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p><a href=\"https://open.spotify.com/episode/14LNnDYXP82pOqECUD3vgK?si=CB4ZmkP-QMOK_-kTI209yA\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">open.spotify.com/episode/14LNn</span><span class=\"invisible\">DYXP82pOqECUD3vgK?si=CB4ZmkP-QMOK_-kTI209yA</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Mastodon for Android",
+            "website": "https://app.joinmastodon.org/android"
+        },
+        "account": {
+            "id": "109361718751726005",
+            "username": "hartungstenio",
+            "acct": "hartungstenio",
+            "display_name": "hartungstenio",
+            "locked": false,
+            "bot": false,
+            "discoverable": null,
+            "group": false,
+            "created_at": "2022-11-17T00:00:00.000Z",
+            "note": "<p>Software developer. Atleta nas horas vagas.<br />👨‍💻 🏊</p>",
+            "url": "https://bolha.us/@hartungstenio",
+            "uri": "https://bolha.us/users/hartungstenio",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/109/361/718/751/726/005/original/65baeef7db825d9b.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/109/361/718/751/726/005/original/65baeef7db825d9b.jpg",
+            "header": "https://bolha.us/headers/original/missing.png",
+            "header_static": "https://bolha.us/headers/original/missing.png",
+            "followers_count": 4,
+            "following_count": 34,
+            "statuses_count": 11,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [],
+            "roles": [],
+            "fields": [
+                {
+                    "name": "Github 👨🏻‍💻",
+                    "value": "<a href=\"https://github.com/hartungstenio\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/hartungstenio</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-07-19T01:57:05.670+00:00"
+                },
+                {
+                    "name": "@hartungstenio@bolha.photos",
+                    "value": "<a href=\"https://bolha.photos/hartungstenio\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bolha.photos/hartungstenio</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": {
+            "url": "https://open.spotify.com/episode/14LNnDYXP82pOqECUD3vgK",
+            "title": "RapaduraCast 803 - Resumão 2023: Filmes, Séries, Cinema e Streaming",
+            "description": "Listen to this episode from RapaduraCast - Podcast de Cinema e Streaming on Spotify. Jurandir Filho, Thiago Siqueira, Rogério Montanare e Fernanda Schmölz iniciam os trabalhos de 2024 falando sobre todos os principais destaques dos cinemas e streamings de 2023. Quais os melhores filmes? Quais as melhores séries? Qual foi o melhor streamingo de 2023? Se prepare pra uma maratona grande de conteúdos no Resumão!  Comentamos sobre os principais filmes e séries, como \"Oppenheimer\", \"Assassinos da Lua das Flores\", \"Barbie\", \"Godzilla Minus One\", \"Guardiões da Galáxia Vol. 3\", \"Homem-Aranha - Através do Aranhaverso\", \"John Wick 4 - Baba Yaga\", \"Fale Comigo\", \"Missão: Impossível 7 - Acerto de Contas - Parte Um\", \"The Last of Us\", \"O Urso\", \"Treta\", \"Ted Lasso\", \"Amor e Morte\", \"Cangaço Novo\", \"Gen V\", \"One Piece\" e muito mais! === 00:00 - Abertura04:29 - Acontecimentos do Ano30:33 - In Memoriam35:56 - Janeiro01:35:19 - Fevereiro02:19:36 - Março03:14:37 - Abril04:06:32 - Maio04:56:16 - Junho05:58:42 - Julho06:43:23 - Agosto06:43:22 - Setembro08:11:13 - Outubro09:01:04 - Novembro09:48:45 - Dezembro10:17:46 - Os Melhores do Ano",
+            "language": "en",
+            "type": "link",
+            "author_name": "",
+            "author_url": "",
+            "provider_name": "Spotify",
+            "provider_url": "",
+            "html": "",
+            "width": 640,
+            "height": 640,
+            "image": "https://media.bolha.us/bolhaprod/cache/preview_cards/images/005/080/552/original/b894060f34ad0651.jpeg",
+            "image_description": "",
+            "embed_url": "",
+            "blurhash": "UFI|wF-r=#?bExO?P9S#8xIB%0R6NFn3Ioni",
+            "published_at": null
+        },
+        "poll": null
+    },
+    {
+        "id": "111752605105966068",
+        "created_at": "2024-01-14T05:17:08.497Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/bug_elseif/statuses/111752605105966068",
+        "url": "https://bolha.us/@bug_elseif/111752605105966068",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 2,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Eu<br />Não sei<br />Manter<br />Contato</p><p>:blobderpy:</p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Mastodon for Android",
+            "website": "https://app.joinmastodon.org/android"
+        },
+        "account": {
+            "id": "109933310647882272",
+            "username": "bug_elseif",
+            "acct": "bug_elseif",
+            "display_name": "Bugs :python: :v12: :autism:",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "group": false,
+            "created_at": "2023-02-26T00:00:00.000Z",
+            "note": "<p>Olá! Eu sou a Bruna (ou Bugs), seguem algumas informações aleatórias:<br />:autism: Autista;<br />👩🏻‍🎓  Bel.a Bugs, ciência da computação;<br />👩🏻‍💻 DevX - developer experience;<br />:python: Pythonista;<br />🪐 1 ano Saturnino;<br />🧵 Artesã de chaveirinhos fofos;<br />🖱 Jogadora de lol -main suporte do ouro;<br />✨ Gosto de -computação -física -astronomia -matemática -teorias sobre a existência...;</p>",
+            "url": "https://bolha.us/@bug_elseif",
+            "uri": "https://bolha.us/users/bug_elseif",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/109/933/310/647/882/272/original/991070dba7545f1d.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/109/933/310/647/882/272/original/991070dba7545f1d.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/109/933/310/647/882/272/original/634dec2c92d0c2a1.jpg",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/109/933/310/647/882/272/original/634dec2c92d0c2a1.jpg",
+            "followers_count": 160,
+            "following_count": 85,
+            "statuses_count": 722,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [
+                {
+                    "shortcode": "autism",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/032/225/original/6932ffa787b4f9a4.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/032/225/static/6932ffa787b4f9a4.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "python",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/032/344/original/dca297db259b4577.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/032/344/static/dca297db259b4577.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "v12",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/041/427/original/7f723f25c6e02b87.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/041/427/static/7f723f25c6e02b87.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "roles": [],
+            "fields": [
+                {
+                    "name": "Website",
+                    "value": "<a href=\"https://bugelseif.github.io/website\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bugelseif.github.io/website</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "Github",
+                    "value": "<a href=\"https://github.com/bugelseif\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/bugelseif</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-04-12T15:16:48.169+00:00"
+                },
+                {
+                    "name": "Instagram",
+                    "value": "<a href=\"https://instagram.com/bug.elseif\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/bug.elseif</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "PeerTube",
+                    "value": "<a href=\"https://bolha.tube/a/bug_elseif/video-channels\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bolha.tube/a/bug_elseif/video-</span><span class=\"invisible\">channels</span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [
+            {
+                "shortcode": "blobderpy",
+                "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/032/454/original/f7c28aebbbbb1c62.png",
+                "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/032/454/static/f7c28aebbbbb1c62.png",
+                "visible_in_picker": true
+            }
+        ],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111752331414345223",
+        "created_at": "2024-01-14T04:07:32.295Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/vitordelucca/statuses/111752331414345223",
+        "url": "https://bolha.us/@vitordelucca/111752331414345223",
+        "replies_count": 1,
+        "reblogs_count": 0,
+        "favourites_count": 1,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Vendo umas conversas antigas e eu era muito mais grosso que eu imaginava kkkkkkkkkk</p><p>Desculpa qualquer um aí 😂</p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Megalodon",
+            "website": "https://sk22.github.io/megalodon"
+        },
+        "account": {
+            "id": "109392227483675187",
+            "username": "vitordelucca",
+            "acct": "vitordelucca",
+            "display_name": "Vitor de Lucca :verig: :verpr:",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "group": false,
+            "created_at": "2022-11-23T00:00:00.000Z",
+            "note": "<p>🌈 :bandeira_pr:  Gosto de falar de política, tecnologia e séries. Progresissta e liberal na economia, nas horas vagas desenvolvo para <a href=\"https://bolha.us/tags/Windows\" class=\"mention hashtag\" rel=\"tag\">#<span>Windows</span></a> e toco piano.  <br />Ex-redator do Tecnoblog e ex-editor-chefe do WinCentral. Ex-subtitler. </p><p>I like to talk about politics, tech and tv shows. A social-liberal, in my spare time I develop for Windows and play piano.<br />Former writer on Tecnoblog and editor-in-chief WinCentral. </p><p>Mod bolha.us </p><p>Toots in 🇧🇷 and 🇺🇸.</p><p><a href=\"https://bolha.us/tags/tech\" class=\"mention hashtag\" rel=\"tag\">#<span>tech</span></a> <a href=\"https://bolha.us/tags/dev\" class=\"mention hashtag\" rel=\"tag\">#<span>dev</span></a> <a href=\"https://bolha.us/tags/politica\" class=\"mention hashtag\" rel=\"tag\">#<span>politica</span></a> <a href=\"https://bolha.us/tags/brasil\" class=\"mention hashtag\" rel=\"tag\">#<span>brasil</span></a> <a href=\"https://bolha.us/tags/jornalismo\" class=\"mention hashtag\" rel=\"tag\">#<span>jornalismo</span></a></p>",
+            "url": "https://bolha.us/@vitordelucca",
+            "uri": "https://bolha.us/users/vitordelucca",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/109/392/227/483/675/187/original/602b79c6b5ade460.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/109/392/227/483/675/187/original/602b79c6b5ade460.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/109/392/227/483/675/187/original/118eb3eb4e2e6f40.jpg",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/109/392/227/483/675/187/original/118eb3eb4e2e6f40.jpg",
+            "followers_count": 362,
+            "following_count": 217,
+            "statuses_count": 1249,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [
+                {
+                    "shortcode": "bandeira_pr",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/032/216/original/0fe87e64b9fd4975.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/032/216/static/0fe87e64b9fd4975.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "verig",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/068/607/original/87d4afedbf7ffed0.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/068/607/static/87d4afedbf7ffed0.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "verpr",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/068/610/original/044fc6e1d6f62a01.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/068/610/static/044fc6e1d6f62a01.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "roles": [
+                {
+                    "id": "1",
+                    "name": "Guardians",
+                    "color": "#000000"
+                }
+            ],
+            "fields": [
+                {
+                    "name": "Github",
+                    "value": "<a href=\"https://github.com/vitordelucca\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/vitordelucca</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-01-28T21:23:35.930+00:00"
+                },
+                {
+                    "name": "Threads",
+                    "value": "<a href=\"https://threads.net/@vitor_dlucca\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">threads.net/@vitor_dlucca</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-08-13T19:44:35.728+00:00"
+                },
+                {
+                    "name": "Instagram",
+                    "value": "<a href=\"https://instagram.com/vitor_dlucca\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/vitor_dlucca</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "X",
+                    "value": "<a href=\"https://x.com/vitor_dlucca\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">x.com/vitor_dlucca</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [
+            {
+                "id": "111752331204141623",
+                "type": "image",
+                "url": "https://media.bolha.us/bolhaprod/media_attachments/files/111/752/331/204/141/623/original/61cf951adbcf1c20.png",
+                "preview_url": "https://media.bolha.us/bolhaprod/media_attachments/files/111/752/331/204/141/623/small/61cf951adbcf1c20.png",
+                "remote_url": null,
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 1079,
+                        "height": 633,
+                        "size": "1079x633",
+                        "aspect": 1.7045813586097947
+                    },
+                    "small": {
+                        "width": 627,
+                        "height": 368,
+                        "size": "627x368",
+                        "aspect": 1.703804347826087
+                    }
+                },
+                "description": null,
+                "blurhash": "U9R:HHD4VEVZrrZ%VZi_-pjZxat7IVRQRjWC"
+            }
+        ],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111752172678741870",
+        "created_at": "2024-01-14T03:27:10.181Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://bolha.us/users/tavisco/statuses/111752172678741870",
+        "url": "https://bolha.us/@tavisco/111752172678741870",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 1,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Which is your preferred way of using <a href=\"https://bolha.us/tags/pixelfed\" class=\"mention hashtag\" rel=\"tag\">#<span>pixelfed</span></a> on an iPhone?</p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Mona for iPhone",
+            "website": "https://mastodon.social/@MonaApp"
+        },
+        "account": {
+            "id": "111167108166927041",
+            "username": "tavisco",
+            "acct": "tavisco",
+            "display_name": "Otávio Pinheiro",
+            "locked": false,
+            "bot": false,
+            "discoverable": false,
+            "group": false,
+            "created_at": "2023-10-02T00:00:00.000Z",
+            "note": "<p>I&#39;m someone who likes to write code and mess with old hardware. </p><p>I mostly write Kotlin/Java for backend at work, and C for personal projects these days. And also self host a lot of stuff on my homelab.</p><p>I speak 🇧🇷 and 🇺🇸 as well 🇪🇸</p>",
+            "url": "https://bolha.us/@tavisco",
+            "uri": "https://bolha.us/users/tavisco",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/111/167/108/166/927/041/original/eef2ffdb2542fbfc.jpeg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/111/167/108/166/927/041/original/eef2ffdb2542fbfc.jpeg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/111/167/108/166/927/041/original/fe55e301a80cb96f.jpg",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/111/167/108/166/927/041/original/fe55e301a80cb96f.jpg",
+            "followers_count": 26,
+            "following_count": 37,
+            "statuses_count": 128,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [],
+            "roles": [],
+            "fields": [
+                {
+                    "name": "Homepage",
+                    "value": "<a href=\"https://tavisco.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">tavisco.dev</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-11-26T22:11:23.499+00:00"
+                },
+                {
+                    "name": "Github",
+                    "value": "<a href=\"https://github.com/Tavisco\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Tavisco</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "Palm OS",
+                    "value": "<a href=\"https://palm.tavisco.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">palm.tavisco.dev</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "Pixelfed",
+                "url": "https://bolha.us/tags/Pixelfed"
+            }
+        ],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111752002264521297",
+        "created_at": "2024-01-14T02:43:49.867Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/guites/statuses/111752002264521297",
+        "url": "https://bolha.us/@guites/111752002264521297",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 3,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "pinned": false,
+        "content": "<p>matar uma mosca batendo palma é uma mistura de orgulho e arrependimento</p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Web",
+            "website": null
+        },
+        "account": {
+            "id": "110702010943752359",
+            "username": "guites",
+            "acct": "guites",
+            "display_name": "guites",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "group": false,
+            "created_at": "2023-07-12T00:00:00.000Z",
+            "note": "<p>eng de software adorador da internet. </p><p>im trigger happy at that boost button, so feel free to block my shares :&#39;)</p><p>profile pic: close up of a raccoon<br />header pic: close up of a man under a red light. it says &quot;war has a cold heart&quot; (its Char from mobile suit gundam)</p>",
+            "url": "https://bolha.us/@guites",
+            "uri": "https://bolha.us/users/guites",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/110/702/010/943/752/359/original/8cc82fa7715223ef.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/110/702/010/943/752/359/original/8cc82fa7715223ef.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/110/702/010/943/752/359/original/1ba2882671ed0f5c.jpg",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/110/702/010/943/752/359/original/1ba2882671ed0f5c.jpg",
+            "followers_count": 75,
+            "following_count": 350,
+            "statuses_count": 597,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [],
+            "roles": [],
+            "fields": [
+                {
+                    "name": "blog",
+                    "value": "<a href=\"https://guites.bearblog.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">guites.bearblog.dev</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111751954890371673",
+        "created_at": "2024-01-14T02:31:46.994Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/filipeduarte/statuses/111751954890371673",
+        "url": "https://bolha.us/@filipeduarte/111751954890371673",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 1,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Ontem comecei a assistir a nova série de Percy Jackson e até agora (2⁰ episódio) estou curtindo. Espero que continue assim até o final.</p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Moshidon",
+            "website": "https://github.com/LucasGGamerM/moshidon"
+        },
+        "account": {
+            "id": "109377103522639289",
+            "username": "filipeduarte",
+            "acct": "filipeduarte",
+            "display_name": "Fil Duarte",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "group": false,
+            "created_at": "2022-11-20T00:00:00.000Z",
+            "note": "<p>✝️ Cristão e esquerdista, pois se Cristo ficou do lado dos oprimidos não tenho como ficar do lado dos opressores.</p><p>💻 Ainda designer gráfico, mas buscando uma oportunidade como frontend dev.</p><p>📺 Curto filmes, séries, videogames e animes.</p><p>🎶 Também curto música e toco teclado.</p>",
+            "url": "https://bolha.us/@filipeduarte",
+            "uri": "https://bolha.us/users/filipeduarte",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/109/377/103/522/639/289/original/cb56e153ffba958e.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/109/377/103/522/639/289/original/cb56e153ffba958e.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/109/377/103/522/639/289/original/9c7dc910d6d37232.jpg",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/109/377/103/522/639/289/original/9c7dc910d6d37232.jpg",
+            "followers_count": 164,
+            "following_count": 198,
+            "statuses_count": 446,
+            "last_status_at": "2024-01-14",
+            "noindex": true,
+            "emojis": [],
+            "roles": [],
+            "fields": [
+                {
+                    "name": "portfolio",
+                    "value": "<a href=\"https://filduarte.com.br\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">filduarte.com.br</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-07-31T17:33:14.340+00:00"
+                },
+                {
+                    "name": "github",
+                    "value": "<a href=\"https://github.com/filgduarte\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/filgduarte</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-04-10T12:11:30.043+00:00"
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111751902816994425",
+        "created_at": "2024-01-14T02:18:32.418Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/gutocarvalho/statuses/111751902816994425",
+        "url": "https://bolha.us/@gutocarvalho/111751902816994425",
+        "replies_count": 0,
+        "reblogs_count": 1,
+        "favourites_count": 1,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Olha tem uma animacao de Babylon5 de 2023.</p><p>Babylon 5: The Road Home</p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Web",
+            "website": null
+        },
+        "account": {
+            "id": "108336787171335042",
+            "username": "gutocarvalho",
+            "acct": "gutocarvalho",
+            "display_name": "Guto Carvalho",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "group": false,
+            "created_at": "2022-05-20T00:00:00.000Z",
+            "note": "<p>SysAdmin :terminal:</p><p><a href=\"https://bolha.us/tags/Brazilian\" class=\"mention hashtag\" rel=\"tag\">#<span>Brazilian</span></a><br />Father of Bia &amp; Artur<br />Living in <a href=\"https://bolha.us/tags/Brasilia\" class=\"mention hashtag\" rel=\"tag\">#<span>Brasilia</span></a> DF/Brazil<br />Made in Campo Grande/MS/Brazil<br />Raised in the South <a href=\"https://bolha.us/tags/Pantanal\" class=\"mention hashtag\" rel=\"tag\">#<span>Pantanal</span></a> Wetland</p><p><a href=\"https://bolha.us/tags/KarateDo\" class=\"mention hashtag\" rel=\"tag\">#<span>KarateDo</span></a> 🥋<br /><a href=\"https://bolha.us/tags/ShitoRyuKai\" class=\"mention hashtag\" rel=\"tag\">#<span>ShitoRyuKai</span></a> <a href=\"https://bolha.us/tags/BlackBelt\" class=\"mention hashtag\" rel=\"tag\">#<span>BlackBelt</span></a></p><p><a href=\"https://bolha.us/tags/DevOps\" class=\"mention hashtag\" rel=\"tag\">#<span>DevOps</span></a> <a href=\"https://bolha.us/tags/GitOps\" class=\"mention hashtag\" rel=\"tag\">#<span>GitOps</span></a> <a href=\"https://bolha.us/tags/CloudNative\" class=\"mention hashtag\" rel=\"tag\">#<span>CloudNative</span></a> <br /><a href=\"https://bolha.us/tags/SRE\" class=\"mention hashtag\" rel=\"tag\">#<span>SRE</span></a> <a href=\"https://bolha.us/tags/IaC\" class=\"mention hashtag\" rel=\"tag\">#<span>IaC</span></a> <a href=\"https://bolha.us/tags/Infrastructure\" class=\"mention hashtag\" rel=\"tag\">#<span>Infrastructure</span></a> <br /><a href=\"https://bolha.us/tags/OpenSource\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenSource</span></a> <a href=\"https://bolha.us/tags/OpenKnowledge\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenKnowledge</span></a></p><p>Surfing on the 🌎 since 1995.</p><p>/me is founder of the :mastodon: Bolha.us &amp; Bolha.io Communities :bolha:</p><p>The answer is 42</p><p>¯\\_(ツ)_/¯ </p><p>Toots in 🇧🇷 and 🇺🇸 </p><p>GutoCarvalho.Net &amp; GCN.sh</p><p>🙂🙂🙂🧊🧊🧊❤️❤️❤️</p>",
+            "url": "https://bolha.us/@gutocarvalho",
+            "uri": "https://bolha.us/users/gutocarvalho",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/108/336/787/171/335/042/original/bfe73fb5919e3000.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/108/336/787/171/335/042/original/bfe73fb5919e3000.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/108/336/787/171/335/042/original/34382caf4d5f24f8.png",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/108/336/787/171/335/042/original/34382caf4d5f24f8.png",
+            "followers_count": 2103,
+            "following_count": 2581,
+            "statuses_count": 3808,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [
+                {
+                    "shortcode": "terminal",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/313/original/ab6972733edc2852.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/313/static/ab6972733edc2852.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "mastodon",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/031/723/original/c009399556ea0624.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/031/723/static/c009399556ea0624.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "bolha",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/314/original/96a8b05dd31a6ef8.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/314/static/96a8b05dd31a6ef8.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "roles": [
+                {
+                    "id": "7",
+                    "name": "Founder",
+                    "color": "#000000"
+                }
+            ],
+            "fields": [
+                {
+                    "name": "blog",
+                    "value": "<a href=\"https://gutocarvalho.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gutocarvalho.net</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-09-11T11:02:56.358+00:00"
+                },
+                {
+                    "name": "pixelfed",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://bolha.photos/gutocarvalho\" class=\"u-url mention\">@<span>gutocarvalho@bolha.photos</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "writefreely",
+                    "value": "<a href=\"https://bolha.blog/gutocarvalho\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bolha.blog/gutocarvalho</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2024-01-03T00:22:21.745+00:00"
+                },
+                {
+                    "name": "matrix",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://bolha.us/@gutocarvalho\" class=\"u-url mention\">@<span>gutocarvalho</span></a></span>:bolha.chat",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111751780502358544",
+        "created_at": "2024-01-14T01:47:26.046Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/gutocarvalho/statuses/111751780502358544",
+        "url": "https://bolha.us/@gutocarvalho/111751780502358544",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 2,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Full DNSSEC , pq né, podemos.</p><p><a href=\"https://bolha.us/tags/dns\" class=\"mention hashtag\" rel=\"tag\">#<span>dns</span></a> <a href=\"https://bolha.us/tags/technitumDns\" class=\"mention hashtag\" rel=\"tag\">#<span>technitumDns</span></a> <a href=\"https://bolha.us/tags/bolha\" class=\"mention hashtag\" rel=\"tag\">#<span>bolha</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Web",
+            "website": null
+        },
+        "account": {
+            "id": "108336787171335042",
+            "username": "gutocarvalho",
+            "acct": "gutocarvalho",
+            "display_name": "Guto Carvalho",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "group": false,
+            "created_at": "2022-05-20T00:00:00.000Z",
+            "note": "<p>SysAdmin :terminal:</p><p><a href=\"https://bolha.us/tags/Brazilian\" class=\"mention hashtag\" rel=\"tag\">#<span>Brazilian</span></a><br />Father of Bia &amp; Artur<br />Living in <a href=\"https://bolha.us/tags/Brasilia\" class=\"mention hashtag\" rel=\"tag\">#<span>Brasilia</span></a> DF/Brazil<br />Made in Campo Grande/MS/Brazil<br />Raised in the South <a href=\"https://bolha.us/tags/Pantanal\" class=\"mention hashtag\" rel=\"tag\">#<span>Pantanal</span></a> Wetland</p><p><a href=\"https://bolha.us/tags/KarateDo\" class=\"mention hashtag\" rel=\"tag\">#<span>KarateDo</span></a> 🥋<br /><a href=\"https://bolha.us/tags/ShitoRyuKai\" class=\"mention hashtag\" rel=\"tag\">#<span>ShitoRyuKai</span></a> <a href=\"https://bolha.us/tags/BlackBelt\" class=\"mention hashtag\" rel=\"tag\">#<span>BlackBelt</span></a></p><p><a href=\"https://bolha.us/tags/DevOps\" class=\"mention hashtag\" rel=\"tag\">#<span>DevOps</span></a> <a href=\"https://bolha.us/tags/GitOps\" class=\"mention hashtag\" rel=\"tag\">#<span>GitOps</span></a> <a href=\"https://bolha.us/tags/CloudNative\" class=\"mention hashtag\" rel=\"tag\">#<span>CloudNative</span></a> <br /><a href=\"https://bolha.us/tags/SRE\" class=\"mention hashtag\" rel=\"tag\">#<span>SRE</span></a> <a href=\"https://bolha.us/tags/IaC\" class=\"mention hashtag\" rel=\"tag\">#<span>IaC</span></a> <a href=\"https://bolha.us/tags/Infrastructure\" class=\"mention hashtag\" rel=\"tag\">#<span>Infrastructure</span></a> <br /><a href=\"https://bolha.us/tags/OpenSource\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenSource</span></a> <a href=\"https://bolha.us/tags/OpenKnowledge\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenKnowledge</span></a></p><p>Surfing on the 🌎 since 1995.</p><p>/me is founder of the :mastodon: Bolha.us &amp; Bolha.io Communities :bolha:</p><p>The answer is 42</p><p>¯\\_(ツ)_/¯ </p><p>Toots in 🇧🇷 and 🇺🇸 </p><p>GutoCarvalho.Net &amp; GCN.sh</p><p>🙂🙂🙂🧊🧊🧊❤️❤️❤️</p>",
+            "url": "https://bolha.us/@gutocarvalho",
+            "uri": "https://bolha.us/users/gutocarvalho",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/108/336/787/171/335/042/original/bfe73fb5919e3000.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/108/336/787/171/335/042/original/bfe73fb5919e3000.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/108/336/787/171/335/042/original/34382caf4d5f24f8.png",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/108/336/787/171/335/042/original/34382caf4d5f24f8.png",
+            "followers_count": 2103,
+            "following_count": 2581,
+            "statuses_count": 3808,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [
+                {
+                    "shortcode": "terminal",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/313/original/ab6972733edc2852.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/313/static/ab6972733edc2852.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "mastodon",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/031/723/original/c009399556ea0624.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/031/723/static/c009399556ea0624.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "bolha",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/314/original/96a8b05dd31a6ef8.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/314/static/96a8b05dd31a6ef8.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "roles": [
+                {
+                    "id": "7",
+                    "name": "Founder",
+                    "color": "#000000"
+                }
+            ],
+            "fields": [
+                {
+                    "name": "blog",
+                    "value": "<a href=\"https://gutocarvalho.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gutocarvalho.net</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-09-11T11:02:56.358+00:00"
+                },
+                {
+                    "name": "pixelfed",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://bolha.photos/gutocarvalho\" class=\"u-url mention\">@<span>gutocarvalho@bolha.photos</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "writefreely",
+                    "value": "<a href=\"https://bolha.blog/gutocarvalho\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bolha.blog/gutocarvalho</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2024-01-03T00:22:21.745+00:00"
+                },
+                {
+                    "name": "matrix",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://bolha.us/@gutocarvalho\" class=\"u-url mention\">@<span>gutocarvalho</span></a></span>:bolha.chat",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [
+            {
+                "id": "111751775314210641",
+                "type": "image",
+                "url": "https://media.bolha.us/bolhaprod/media_attachments/files/111/751/775/314/210/641/original/0b3bf69bb4f39d5c.png",
+                "preview_url": "https://media.bolha.us/bolhaprod/media_attachments/files/111/751/775/314/210/641/small/0b3bf69bb4f39d5c.png",
+                "remote_url": null,
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 3418,
+                        "height": 1958,
+                        "size": "3418x1958",
+                        "aspect": 1.745658835546476
+                    },
+                    "small": {
+                        "width": 634,
+                        "height": 363,
+                        "size": "634x363",
+                        "aspect": 1.7465564738292012
+                    },
+                    "focus": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "description": "screenshot do sistema de DNS da bolha mostrando todos os domínios com DNSSEC",
+                "blurhash": "UMRW3kxv-;IU4naxazj[00ayWVof4nayayj["
+            }
+        ],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "dns",
+                "url": "https://bolha.us/tags/dns"
+            },
+            {
+                "name": "technitumdns",
+                "url": "https://bolha.us/tags/technitumdns"
+            },
+            {
+                "name": "bolha",
+                "url": "https://bolha.us/tags/bolha"
+            }
+        ],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111751764240477667",
+        "created_at": "2024-01-14T01:43:17.907Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/gutocarvalho/statuses/111751764240477667",
+        "url": "https://bolha.us/@gutocarvalho/111751764240477667",
+        "replies_count": 1,
+        "reblogs_count": 0,
+        "favourites_count": 2,
+        "edited_at": "2024-01-14T01:49:35.199Z",
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>adaptar Crise nas infinitas terras para animacao, IMHO, é um grande desafio, é um arco da DC que marcou muito minha infância, influeciou o futuro da DC, mudou muito, mudou tudo, vamos ver se vai manter o padrão de qualidade do quadrinho.</p><p><a href=\"https://bolha.us/tags/dc\" class=\"mention hashtag\" rel=\"tag\">#<span>dc</span></a><br /><a href=\"https://bolha.us/tags/comics\" class=\"mention hashtag\" rel=\"tag\">#<span>comics</span></a> <br /><a href=\"https://bolha.us/tags/crisisoninfinitearths\" class=\"mention hashtag\" rel=\"tag\">#<span>crisisoninfinitearths</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Web",
+            "website": null
+        },
+        "account": {
+            "id": "108336787171335042",
+            "username": "gutocarvalho",
+            "acct": "gutocarvalho",
+            "display_name": "Guto Carvalho",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "group": false,
+            "created_at": "2022-05-20T00:00:00.000Z",
+            "note": "<p>SysAdmin :terminal:</p><p><a href=\"https://bolha.us/tags/Brazilian\" class=\"mention hashtag\" rel=\"tag\">#<span>Brazilian</span></a><br />Father of Bia &amp; Artur<br />Living in <a href=\"https://bolha.us/tags/Brasilia\" class=\"mention hashtag\" rel=\"tag\">#<span>Brasilia</span></a> DF/Brazil<br />Made in Campo Grande/MS/Brazil<br />Raised in the South <a href=\"https://bolha.us/tags/Pantanal\" class=\"mention hashtag\" rel=\"tag\">#<span>Pantanal</span></a> Wetland</p><p><a href=\"https://bolha.us/tags/KarateDo\" class=\"mention hashtag\" rel=\"tag\">#<span>KarateDo</span></a> 🥋<br /><a href=\"https://bolha.us/tags/ShitoRyuKai\" class=\"mention hashtag\" rel=\"tag\">#<span>ShitoRyuKai</span></a> <a href=\"https://bolha.us/tags/BlackBelt\" class=\"mention hashtag\" rel=\"tag\">#<span>BlackBelt</span></a></p><p><a href=\"https://bolha.us/tags/DevOps\" class=\"mention hashtag\" rel=\"tag\">#<span>DevOps</span></a> <a href=\"https://bolha.us/tags/GitOps\" class=\"mention hashtag\" rel=\"tag\">#<span>GitOps</span></a> <a href=\"https://bolha.us/tags/CloudNative\" class=\"mention hashtag\" rel=\"tag\">#<span>CloudNative</span></a> <br /><a href=\"https://bolha.us/tags/SRE\" class=\"mention hashtag\" rel=\"tag\">#<span>SRE</span></a> <a href=\"https://bolha.us/tags/IaC\" class=\"mention hashtag\" rel=\"tag\">#<span>IaC</span></a> <a href=\"https://bolha.us/tags/Infrastructure\" class=\"mention hashtag\" rel=\"tag\">#<span>Infrastructure</span></a> <br /><a href=\"https://bolha.us/tags/OpenSource\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenSource</span></a> <a href=\"https://bolha.us/tags/OpenKnowledge\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenKnowledge</span></a></p><p>Surfing on the 🌎 since 1995.</p><p>/me is founder of the :mastodon: Bolha.us &amp; Bolha.io Communities :bolha:</p><p>The answer is 42</p><p>¯\\_(ツ)_/¯ </p><p>Toots in 🇧🇷 and 🇺🇸 </p><p>GutoCarvalho.Net &amp; GCN.sh</p><p>🙂🙂🙂🧊🧊🧊❤️❤️❤️</p>",
+            "url": "https://bolha.us/@gutocarvalho",
+            "uri": "https://bolha.us/users/gutocarvalho",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/108/336/787/171/335/042/original/bfe73fb5919e3000.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/108/336/787/171/335/042/original/bfe73fb5919e3000.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/108/336/787/171/335/042/original/34382caf4d5f24f8.png",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/108/336/787/171/335/042/original/34382caf4d5f24f8.png",
+            "followers_count": 2103,
+            "following_count": 2581,
+            "statuses_count": 3808,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [
+                {
+                    "shortcode": "terminal",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/313/original/ab6972733edc2852.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/313/static/ab6972733edc2852.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "mastodon",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/031/723/original/c009399556ea0624.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/031/723/static/c009399556ea0624.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "bolha",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/314/original/96a8b05dd31a6ef8.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/314/static/96a8b05dd31a6ef8.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "roles": [
+                {
+                    "id": "7",
+                    "name": "Founder",
+                    "color": "#000000"
+                }
+            ],
+            "fields": [
+                {
+                    "name": "blog",
+                    "value": "<a href=\"https://gutocarvalho.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gutocarvalho.net</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-09-11T11:02:56.358+00:00"
+                },
+                {
+                    "name": "pixelfed",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://bolha.photos/gutocarvalho\" class=\"u-url mention\">@<span>gutocarvalho@bolha.photos</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "writefreely",
+                    "value": "<a href=\"https://bolha.blog/gutocarvalho\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bolha.blog/gutocarvalho</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2024-01-03T00:22:21.745+00:00"
+                },
+                {
+                    "name": "matrix",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://bolha.us/@gutocarvalho\" class=\"u-url mention\">@<span>gutocarvalho</span></a></span>:bolha.chat",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "dc",
+                "url": "https://bolha.us/tags/dc"
+            },
+            {
+                "name": "comics",
+                "url": "https://bolha.us/tags/comics"
+            },
+            {
+                "name": "crisisoninfinitearths",
+                "url": "https://bolha.us/tags/crisisoninfinitearths"
+            }
+        ],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111751665547156117",
+        "created_at": "2024-01-14T01:18:11.967Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/gutocarvalho/statuses/111751665547156117",
+        "url": "https://bolha.us/@gutocarvalho/111751665547156117",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 4,
+        "edited_at": "2024-01-14T01:49:47.730Z",
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Chegou na locadora.</p><p>Justice.League.Crisis.on.Infinite.Earths.Part.One.2024.1080p.....</p><p>Fica a dica!</p><p><a href=\"https://bolha.us/tags/dc\" class=\"mention hashtag\" rel=\"tag\">#<span>dc</span></a><br /><a href=\"https://bolha.us/tags/comics\" class=\"mention hashtag\" rel=\"tag\">#<span>comics</span></a> <br /><a href=\"https://bolha.us/tags/crisisoninfinitearths\" class=\"mention hashtag\" rel=\"tag\">#<span>crisisoninfinitearths</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Web",
+            "website": null
+        },
+        "account": {
+            "id": "108336787171335042",
+            "username": "gutocarvalho",
+            "acct": "gutocarvalho",
+            "display_name": "Guto Carvalho",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "group": false,
+            "created_at": "2022-05-20T00:00:00.000Z",
+            "note": "<p>SysAdmin :terminal:</p><p><a href=\"https://bolha.us/tags/Brazilian\" class=\"mention hashtag\" rel=\"tag\">#<span>Brazilian</span></a><br />Father of Bia &amp; Artur<br />Living in <a href=\"https://bolha.us/tags/Brasilia\" class=\"mention hashtag\" rel=\"tag\">#<span>Brasilia</span></a> DF/Brazil<br />Made in Campo Grande/MS/Brazil<br />Raised in the South <a href=\"https://bolha.us/tags/Pantanal\" class=\"mention hashtag\" rel=\"tag\">#<span>Pantanal</span></a> Wetland</p><p><a href=\"https://bolha.us/tags/KarateDo\" class=\"mention hashtag\" rel=\"tag\">#<span>KarateDo</span></a> 🥋<br /><a href=\"https://bolha.us/tags/ShitoRyuKai\" class=\"mention hashtag\" rel=\"tag\">#<span>ShitoRyuKai</span></a> <a href=\"https://bolha.us/tags/BlackBelt\" class=\"mention hashtag\" rel=\"tag\">#<span>BlackBelt</span></a></p><p><a href=\"https://bolha.us/tags/DevOps\" class=\"mention hashtag\" rel=\"tag\">#<span>DevOps</span></a> <a href=\"https://bolha.us/tags/GitOps\" class=\"mention hashtag\" rel=\"tag\">#<span>GitOps</span></a> <a href=\"https://bolha.us/tags/CloudNative\" class=\"mention hashtag\" rel=\"tag\">#<span>CloudNative</span></a> <br /><a href=\"https://bolha.us/tags/SRE\" class=\"mention hashtag\" rel=\"tag\">#<span>SRE</span></a> <a href=\"https://bolha.us/tags/IaC\" class=\"mention hashtag\" rel=\"tag\">#<span>IaC</span></a> <a href=\"https://bolha.us/tags/Infrastructure\" class=\"mention hashtag\" rel=\"tag\">#<span>Infrastructure</span></a> <br /><a href=\"https://bolha.us/tags/OpenSource\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenSource</span></a> <a href=\"https://bolha.us/tags/OpenKnowledge\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenKnowledge</span></a></p><p>Surfing on the 🌎 since 1995.</p><p>/me is founder of the :mastodon: Bolha.us &amp; Bolha.io Communities :bolha:</p><p>The answer is 42</p><p>¯\\_(ツ)_/¯ </p><p>Toots in 🇧🇷 and 🇺🇸 </p><p>GutoCarvalho.Net &amp; GCN.sh</p><p>🙂🙂🙂🧊🧊🧊❤️❤️❤️</p>",
+            "url": "https://bolha.us/@gutocarvalho",
+            "uri": "https://bolha.us/users/gutocarvalho",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/108/336/787/171/335/042/original/bfe73fb5919e3000.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/108/336/787/171/335/042/original/bfe73fb5919e3000.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/108/336/787/171/335/042/original/34382caf4d5f24f8.png",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/108/336/787/171/335/042/original/34382caf4d5f24f8.png",
+            "followers_count": 2103,
+            "following_count": 2581,
+            "statuses_count": 3808,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [
+                {
+                    "shortcode": "terminal",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/313/original/ab6972733edc2852.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/313/static/ab6972733edc2852.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "mastodon",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/031/723/original/c009399556ea0624.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/031/723/static/c009399556ea0624.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "bolha",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/314/original/96a8b05dd31a6ef8.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/314/static/96a8b05dd31a6ef8.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "roles": [
+                {
+                    "id": "7",
+                    "name": "Founder",
+                    "color": "#000000"
+                }
+            ],
+            "fields": [
+                {
+                    "name": "blog",
+                    "value": "<a href=\"https://gutocarvalho.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gutocarvalho.net</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-09-11T11:02:56.358+00:00"
+                },
+                {
+                    "name": "pixelfed",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://bolha.photos/gutocarvalho\" class=\"u-url mention\">@<span>gutocarvalho@bolha.photos</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "writefreely",
+                    "value": "<a href=\"https://bolha.blog/gutocarvalho\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bolha.blog/gutocarvalho</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2024-01-03T00:22:21.745+00:00"
+                },
+                {
+                    "name": "matrix",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://bolha.us/@gutocarvalho\" class=\"u-url mention\">@<span>gutocarvalho</span></a></span>:bolha.chat",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "dc",
+                "url": "https://bolha.us/tags/dc"
+            },
+            {
+                "name": "comics",
+                "url": "https://bolha.us/tags/comics"
+            },
+            {
+                "name": "crisisoninfinitearths",
+                "url": "https://bolha.us/tags/crisisoninfinitearths"
+            }
+        ],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111751578306789435",
+        "created_at": "2024-01-14T00:56:00.785Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/gutocarvalho/statuses/111751578306789435",
+        "url": "https://bolha.us/@gutocarvalho/111751578306789435",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 1,
+        "edited_at": "2024-01-14T01:48:09.030Z",
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>adoro ver videos de aviacao no bolha.in.</p><p><a href=\"https://bolha.us/tags/invidious\" class=\"mention hashtag\" rel=\"tag\">#<span>invidious</span></a> <a href=\"https://bolha.us/tags/aviation\" class=\"mention hashtag\" rel=\"tag\">#<span>aviation</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Web",
+            "website": null
+        },
+        "account": {
+            "id": "108336787171335042",
+            "username": "gutocarvalho",
+            "acct": "gutocarvalho",
+            "display_name": "Guto Carvalho",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "group": false,
+            "created_at": "2022-05-20T00:00:00.000Z",
+            "note": "<p>SysAdmin :terminal:</p><p><a href=\"https://bolha.us/tags/Brazilian\" class=\"mention hashtag\" rel=\"tag\">#<span>Brazilian</span></a><br />Father of Bia &amp; Artur<br />Living in <a href=\"https://bolha.us/tags/Brasilia\" class=\"mention hashtag\" rel=\"tag\">#<span>Brasilia</span></a> DF/Brazil<br />Made in Campo Grande/MS/Brazil<br />Raised in the South <a href=\"https://bolha.us/tags/Pantanal\" class=\"mention hashtag\" rel=\"tag\">#<span>Pantanal</span></a> Wetland</p><p><a href=\"https://bolha.us/tags/KarateDo\" class=\"mention hashtag\" rel=\"tag\">#<span>KarateDo</span></a> 🥋<br /><a href=\"https://bolha.us/tags/ShitoRyuKai\" class=\"mention hashtag\" rel=\"tag\">#<span>ShitoRyuKai</span></a> <a href=\"https://bolha.us/tags/BlackBelt\" class=\"mention hashtag\" rel=\"tag\">#<span>BlackBelt</span></a></p><p><a href=\"https://bolha.us/tags/DevOps\" class=\"mention hashtag\" rel=\"tag\">#<span>DevOps</span></a> <a href=\"https://bolha.us/tags/GitOps\" class=\"mention hashtag\" rel=\"tag\">#<span>GitOps</span></a> <a href=\"https://bolha.us/tags/CloudNative\" class=\"mention hashtag\" rel=\"tag\">#<span>CloudNative</span></a> <br /><a href=\"https://bolha.us/tags/SRE\" class=\"mention hashtag\" rel=\"tag\">#<span>SRE</span></a> <a href=\"https://bolha.us/tags/IaC\" class=\"mention hashtag\" rel=\"tag\">#<span>IaC</span></a> <a href=\"https://bolha.us/tags/Infrastructure\" class=\"mention hashtag\" rel=\"tag\">#<span>Infrastructure</span></a> <br /><a href=\"https://bolha.us/tags/OpenSource\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenSource</span></a> <a href=\"https://bolha.us/tags/OpenKnowledge\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenKnowledge</span></a></p><p>Surfing on the 🌎 since 1995.</p><p>/me is founder of the :mastodon: Bolha.us &amp; Bolha.io Communities :bolha:</p><p>The answer is 42</p><p>¯\\_(ツ)_/¯ </p><p>Toots in 🇧🇷 and 🇺🇸 </p><p>GutoCarvalho.Net &amp; GCN.sh</p><p>🙂🙂🙂🧊🧊🧊❤️❤️❤️</p>",
+            "url": "https://bolha.us/@gutocarvalho",
+            "uri": "https://bolha.us/users/gutocarvalho",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/108/336/787/171/335/042/original/bfe73fb5919e3000.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/108/336/787/171/335/042/original/bfe73fb5919e3000.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/108/336/787/171/335/042/original/34382caf4d5f24f8.png",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/108/336/787/171/335/042/original/34382caf4d5f24f8.png",
+            "followers_count": 2103,
+            "following_count": 2581,
+            "statuses_count": 3808,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [
+                {
+                    "shortcode": "terminal",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/313/original/ab6972733edc2852.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/313/static/ab6972733edc2852.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "mastodon",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/031/723/original/c009399556ea0624.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/031/723/static/c009399556ea0624.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "bolha",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/314/original/96a8b05dd31a6ef8.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/314/static/96a8b05dd31a6ef8.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "roles": [
+                {
+                    "id": "7",
+                    "name": "Founder",
+                    "color": "#000000"
+                }
+            ],
+            "fields": [
+                {
+                    "name": "blog",
+                    "value": "<a href=\"https://gutocarvalho.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gutocarvalho.net</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-09-11T11:02:56.358+00:00"
+                },
+                {
+                    "name": "pixelfed",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://bolha.photos/gutocarvalho\" class=\"u-url mention\">@<span>gutocarvalho@bolha.photos</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "writefreely",
+                    "value": "<a href=\"https://bolha.blog/gutocarvalho\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bolha.blog/gutocarvalho</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2024-01-03T00:22:21.745+00:00"
+                },
+                {
+                    "name": "matrix",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://bolha.us/@gutocarvalho\" class=\"u-url mention\">@<span>gutocarvalho</span></a></span>:bolha.chat",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "invidious",
+                "url": "https://bolha.us/tags/invidious"
+            },
+            {
+                "name": "aviation",
+                "url": "https://bolha.us/tags/aviation"
+            }
+        ],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111751554540155605",
+        "created_at": "2024-01-14T00:49:58.134Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://bolha.us/users/gabrielmastodon/statuses/111751554540155605",
+        "url": "https://bolha.us/@gabrielmastodon/111751554540155605",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Manjaro é vida. Casou perfeitamente com meu hardware.</p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Moshidon",
+            "website": "https://github.com/LucasGGamerM/moshidon"
+        },
+        "account": {
+            "id": "109530151008675013",
+            "username": "gabrielmastodon",
+            "acct": "gabrielmastodon",
+            "display_name": "Gabriel",
+            "locked": false,
+            "bot": false,
+            "discoverable": false,
+            "group": false,
+            "created_at": "2022-12-17T00:00:00.000Z",
+            "note": "",
+            "url": "https://bolha.us/@gabrielmastodon",
+            "uri": "https://bolha.us/users/gabrielmastodon",
+            "avatar": "https://bolha.us/avatars/original/missing.png",
+            "avatar_static": "https://bolha.us/avatars/original/missing.png",
+            "header": "https://bolha.us/headers/original/missing.png",
+            "header_static": "https://bolha.us/headers/original/missing.png",
+            "followers_count": 18,
+            "following_count": 88,
+            "statuses_count": 76,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [],
+            "roles": [],
+            "fields": []
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "111751443260565716",
+        "created_at": "2024-01-14T00:21:40.142Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://bolha.us/users/gutocarvalho/statuses/111751443260565716",
+        "url": "https://bolha.us/@gutocarvalho/111751443260565716",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": "2024-01-14T01:48:16.610Z",
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Interessante.</p><p><a href=\"https://bolha.in/watch?v=C_dNt4UEVZQ&amp;listen=false\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bolha.in/watch?v=C_dNt4UEVZQ&amp;l</span><span class=\"invisible\">isten=false</span></a></p><p><a href=\"https://bolha.us/tags/invidious\" class=\"mention hashtag\" rel=\"tag\">#<span>invidious</span></a> <a href=\"https://bolha.us/tags/aviation\" class=\"mention hashtag\" rel=\"tag\">#<span>aviation</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Web",
+            "website": null
+        },
+        "account": {
+            "id": "108336787171335042",
+            "username": "gutocarvalho",
+            "acct": "gutocarvalho",
+            "display_name": "Guto Carvalho",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "group": false,
+            "created_at": "2022-05-20T00:00:00.000Z",
+            "note": "<p>SysAdmin :terminal:</p><p><a href=\"https://bolha.us/tags/Brazilian\" class=\"mention hashtag\" rel=\"tag\">#<span>Brazilian</span></a><br />Father of Bia &amp; Artur<br />Living in <a href=\"https://bolha.us/tags/Brasilia\" class=\"mention hashtag\" rel=\"tag\">#<span>Brasilia</span></a> DF/Brazil<br />Made in Campo Grande/MS/Brazil<br />Raised in the South <a href=\"https://bolha.us/tags/Pantanal\" class=\"mention hashtag\" rel=\"tag\">#<span>Pantanal</span></a> Wetland</p><p><a href=\"https://bolha.us/tags/KarateDo\" class=\"mention hashtag\" rel=\"tag\">#<span>KarateDo</span></a> 🥋<br /><a href=\"https://bolha.us/tags/ShitoRyuKai\" class=\"mention hashtag\" rel=\"tag\">#<span>ShitoRyuKai</span></a> <a href=\"https://bolha.us/tags/BlackBelt\" class=\"mention hashtag\" rel=\"tag\">#<span>BlackBelt</span></a></p><p><a href=\"https://bolha.us/tags/DevOps\" class=\"mention hashtag\" rel=\"tag\">#<span>DevOps</span></a> <a href=\"https://bolha.us/tags/GitOps\" class=\"mention hashtag\" rel=\"tag\">#<span>GitOps</span></a> <a href=\"https://bolha.us/tags/CloudNative\" class=\"mention hashtag\" rel=\"tag\">#<span>CloudNative</span></a> <br /><a href=\"https://bolha.us/tags/SRE\" class=\"mention hashtag\" rel=\"tag\">#<span>SRE</span></a> <a href=\"https://bolha.us/tags/IaC\" class=\"mention hashtag\" rel=\"tag\">#<span>IaC</span></a> <a href=\"https://bolha.us/tags/Infrastructure\" class=\"mention hashtag\" rel=\"tag\">#<span>Infrastructure</span></a> <br /><a href=\"https://bolha.us/tags/OpenSource\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenSource</span></a> <a href=\"https://bolha.us/tags/OpenKnowledge\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenKnowledge</span></a></p><p>Surfing on the 🌎 since 1995.</p><p>/me is founder of the :mastodon: Bolha.us &amp; Bolha.io Communities :bolha:</p><p>The answer is 42</p><p>¯\\_(ツ)_/¯ </p><p>Toots in 🇧🇷 and 🇺🇸 </p><p>GutoCarvalho.Net &amp; GCN.sh</p><p>🙂🙂🙂🧊🧊🧊❤️❤️❤️</p>",
+            "url": "https://bolha.us/@gutocarvalho",
+            "uri": "https://bolha.us/users/gutocarvalho",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/108/336/787/171/335/042/original/bfe73fb5919e3000.jpg",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/108/336/787/171/335/042/original/bfe73fb5919e3000.jpg",
+            "header": "https://media.bolha.us/bolhaprod/accounts/headers/108/336/787/171/335/042/original/34382caf4d5f24f8.png",
+            "header_static": "https://media.bolha.us/bolhaprod/accounts/headers/108/336/787/171/335/042/original/34382caf4d5f24f8.png",
+            "followers_count": 2103,
+            "following_count": 2581,
+            "statuses_count": 3808,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [
+                {
+                    "shortcode": "terminal",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/313/original/ab6972733edc2852.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/313/static/ab6972733edc2852.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "mastodon",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/031/723/original/c009399556ea0624.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/031/723/static/c009399556ea0624.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "bolha",
+                    "url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/314/original/96a8b05dd31a6ef8.png",
+                    "static_url": "https://media.bolha.us/bolhaprod/custom_emojis/images/000/090/314/static/96a8b05dd31a6ef8.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "roles": [
+                {
+                    "id": "7",
+                    "name": "Founder",
+                    "color": "#000000"
+                }
+            ],
+            "fields": [
+                {
+                    "name": "blog",
+                    "value": "<a href=\"https://gutocarvalho.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gutocarvalho.net</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2023-09-11T11:02:56.358+00:00"
+                },
+                {
+                    "name": "pixelfed",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://bolha.photos/gutocarvalho\" class=\"u-url mention\">@<span>gutocarvalho@bolha.photos</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "writefreely",
+                    "value": "<a href=\"https://bolha.blog/gutocarvalho\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bolha.blog/gutocarvalho</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2024-01-03T00:22:21.745+00:00"
+                },
+                {
+                    "name": "matrix",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://bolha.us/@gutocarvalho\" class=\"u-url mention\">@<span>gutocarvalho</span></a></span>:bolha.chat",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "invidious",
+                "url": "https://bolha.us/tags/invidious"
+            },
+            {
+                "name": "aviation",
+                "url": "https://bolha.us/tags/aviation"
+            }
+        ],
+        "emojis": [],
+        "card": {
+            "url": "https://bolha.in/watch?v=C_dNt4UEVZQ",
+            "title": "Could This Change Air Travel Forever?",
+            "description": "Get Nebula for just $2.50 a month here: https://go.nebula.tv/mustard\n\nWatch 'The Largest Aircraft Never Built - The Lockheed CL-1201' here: https://nebula.tv/videos/mustard-the-largest-aircraft-never-built-the-lockheed-cl1201\n\nPatreon: https://www.patreon.com/MustardChannel\nMustard Merchandise: https://www.teespring.com/stores/mustard-store\nFacebook: https://www.facebook.com/Mustard-109952378202335\nTwitter:  https://twitter.com/MustardVideos\nWebsite: https://www.mustardchannel.com/\n\nBilateral symmetry is an unspoken assumption in aircraft design. Anything in nature that flies, from the smallest insect to the largest bird, possesses symmetry. But birds don't fly supersonic. \n\nIn the 1950’s Robert Thomas Jones, a brilliant NASA engineer, began developing a radical new wing arrangement called an oblique wing (also referred to as a skewed wing). The wing design was characterized by a wing that could pivot into a unique angled configuration in relation to the aircraft’s fuselage. The design offered several advantages over more conventional swept wings. An oblique wing’s ability to pivot into a straight wing made it ideal for low speed flight (improving efficiency and take-off/landing performance), but at transonic and supersonic speeds, the angled orientation minimized both wave and induced drag, leading to improved overall aerodynamic efficiency. With lower drag at higher speeds, oblique wing aircraft would require less thrust to maintain a given speed, resulting in reduced fuel consumption and operating costs.  Compared to other variable geometry wings, oblique wings would also be lighter, less complex and have fewer drawbacks like a shifting center of lift.\n\nJones proved his theories through wind tunnel tests and with small scale remote control models. Promising results prompted NASA to undertake more intensive research during the 1970s. The first major step was the propeller-driven Oblique Wing Remotely Piloted Research Aircraft (OWRPRA) which first took flight in 1976. At the same time, aviation leaders Boeing and Lockheed were invited to study oblique wings to assess their benefits to commercial air travel. In 1979 the NASA Ames-Dryden-1 (AD-1), a subsonic, human piloted oblique wing aircraft began rigorous flight testing.\n\nNASA’s research efforts validated many of Jones’s theories, and the oblique wing demonstrated promise in real world flight. There were plans to follow the subsonic AD-1 program with a supersonic testing program using a modified U.S Navy F-8 fighter, but the program was cancelled early on in development. Budget constraints and shifting priorities have largely stalled intensive oblique wing research programs since the early 1990s. There are still widespread reservations about the flying qualities of highly asymmetrical aircraft. Flight control at extreme wing pivots is unfavorable and requires automated systems to augment flight control. Using modern flight control technologies and advanced materials, many of these drawbacks could be overcome. Oblique wings are still considered a viable concept for large transports and many are convinced that they will eventually be adopted. The advantages are simply too great to ignore. \n\nKey Research: “Thinking Obliquely: Robert T. Jones, the Oblique Wing, NASA’s AD-1 Demonstrator” by Bruce I. Larrimer (2019): https://www.nasa.gov/wp-content/uploads/2015/04/ThinkingObliquely-ebook.pdf",
+            "language": "en",
+            "type": "video",
+            "author_name": "",
+            "author_url": "",
+            "provider_name": "Mustard | Invidious",
+            "provider_url": "",
+            "html": "<iframe src=\"https://bolha.in/embed/C_dNt4UEVZQ\" width=\"1280\" height=\"720\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" frameborder=\"0\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms\"></iframe>",
+            "width": 1280,
+            "height": 720,
+            "image": "https://media.bolha.us/bolhaprod/cache/preview_cards/images/005/078/064/original/f35b7c30ab73b2ee.jpg",
+            "image_description": "",
+            "embed_url": "",
+            "blurhash": "UGHx]L~V00IV%Nw|M{bID+t7%0f5njE3W=-o",
+            "published_at": null
+        },
+        "poll": null
+    },
+    {
+        "id": "111751432834675735",
+        "created_at": "2024-01-14T00:19:01.057Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://bolha.us/users/updates/statuses/111751432834675735",
+        "url": "https://bolha.us/@updates/111751432834675735",
+        "replies_count": 0,
+        "reblogs_count": 1,
+        "favourites_count": 2,
+        "edited_at": "2024-01-14T01:50:37.124Z",
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Invidious atualizado para versão 2024.01.10</p><p><a href=\"https://bolha.in\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bolha.in</span><span class=\"invisible\"></span></a></p><p>:)</p><p><a href=\"https://bolha.us/tags/invidious\" class=\"mention hashtag\" rel=\"tag\">#<span>invidious</span></a> <a href=\"https://bolha.us/tags/bolha\" class=\"mention hashtag\" rel=\"tag\">#<span>bolha</span></a> <a href=\"https://bolha.us/tags/bolhaverse\" class=\"mention hashtag\" rel=\"tag\">#<span>bolhaverse</span></a> <a href=\"https://bolha.us/tags/fediverse\" class=\"mention hashtag\" rel=\"tag\">#<span>fediverse</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "application": {
+            "name": "Web",
+            "website": null
+        },
+        "account": {
+            "id": "110601681836859205",
+            "username": "updates",
+            "acct": "updates",
+            "display_name": "Updates",
+            "locked": false,
+            "bot": false,
+            "discoverable": false,
+            "group": false,
+            "created_at": "2023-06-24T00:00:00.000Z",
+            "note": "<p>Aqui você encontra informações das atualizações nos sistema da Bolha.io</p>",
+            "url": "https://bolha.us/@updates",
+            "uri": "https://bolha.us/users/updates",
+            "avatar": "https://media.bolha.us/bolhaprod/accounts/avatars/110/601/681/836/859/205/original/eeedcdeb60cb00e7.png",
+            "avatar_static": "https://media.bolha.us/bolhaprod/accounts/avatars/110/601/681/836/859/205/original/eeedcdeb60cb00e7.png",
+            "header": "https://bolha.us/headers/original/missing.png",
+            "header_static": "https://bolha.us/headers/original/missing.png",
+            "followers_count": 24,
+            "following_count": 11,
+            "statuses_count": 70,
+            "last_status_at": "2024-01-14",
+            "noindex": false,
+            "emojis": [],
+            "roles": [],
+            "fields": []
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "invidious",
+                "url": "https://bolha.us/tags/invidious"
+            },
+            {
+                "name": "bolha",
+                "url": "https://bolha.us/tags/bolha"
+            },
+            {
+                "name": "bolhaverse",
+                "url": "https://bolha.us/tags/bolhaverse"
+            },
+            {
+                "name": "Fediverse",
+                "url": "https://bolha.us/tags/Fediverse"
+            }
+        ],
+        "emojis": [],
+        "card": {
+            "url": "https://bolha.in/feed/popular",
+            "title": "\n    \n        Invidious\n    \n",
+            "description": "An alternative front-end to YouTube",
+            "language": "en",
+            "type": "link",
+            "author_name": "",
+            "author_url": "",
+            "provider_name": "",
+            "provider_url": "",
+            "html": "",
+            "width": 0,
+            "height": 0,
+            "image": null,
+            "image_description": "",
+            "embed_url": "",
+            "blurhash": null,
+            "published_at": null
+        },
+        "poll": null
+    }
+]
